@@ -70,5 +70,8 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 /local.properties
-/gradlew
-/gradlew.bat
+/app/build/generated/ap_generated_sources/debug/out/
+/app/build/generated/source/buildConfig/debug/
+/.gradle/
+/app/build/
+/build/

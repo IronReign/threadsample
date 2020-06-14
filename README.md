@@ -4,9 +4,10 @@ articles still current on developer.android.com:
 
 Here is a list of all of the articles that reference code from this sample app.
 https://developer.android.com/s/results?q=ThreadSample
+You can download the original source at the bottom of many of those pages.
 
-While learning about threading on Android, we were looking around for working code examples that showed
-the different ways of sharing information between threads and the documentation above extensively refers
+While learning about threading on Android, we were looking around for non-trivial working code examples that showed
+the different ways of controlling threads and sharing information between them, and the documentation above extensively refers
 to this example.
 
 ## Updating
@@ -32,7 +33,7 @@ we just want it working as a base to experiment with.
 ## Getting Help
 ### Nope - not from here
 We are a high school robotics team. We are not qualified to provide help with multi-threading apps on Android.
-We are just learning about this subject, so please refer your questions to more
+We are just learning about this subject, so please refer your questions to more experienced folks.
 ### User Documentation and Tutorials
 
 Again, the articles that reference this example are extensive and can be found here:
